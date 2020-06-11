@@ -1,0 +1,14 @@
+.navbar{
+    background-color: black;
+    color: white;
+    height: 10vh;
+    padding-top: 1%;
+    padding-left: 1%;
+}
+button{
+    margin: 2%;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}

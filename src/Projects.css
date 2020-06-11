@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+
+.projects-main{
+    background-color: black;
+}
+.projects-head{
+    color: white;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: 5%;
+    font-weight: bolder;
+
+}
