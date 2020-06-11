@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+.contact-main{
+    background-color: black;
+    height: auto;
+    width: 100vw;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 3%;
+}
+.contact-head{
+    color: white;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    padding-bottom: 3%;
+    padding-top:3%;
+}
+.contact-comp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
