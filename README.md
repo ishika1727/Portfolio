@@ -8,7 +8,7 @@
 
 This is my portfolio build using React javascript library. It consists of components for projects,skills and exprience.
 
-P.S.: It is still under construction and lots of things/features are still to be added(eg: responsiveness)
+P.S.: It is still under construction and lots of things/features are still to be added.
 
 #### Developed by: Ishika Dubey
 
