@@ -15,17 +15,19 @@ class Aboutme extends React.Component {
                         <img id="back" src={backi} alt="background image"></img>
                     </div>
                     <div className="home-text">
-                        <div className="home-text-1">
-                            I am a Web Developer
-                    </div>
-                        <br></br>
                         <div className="home-text-2">
-                            I am a frontend web developer, currently pursuing my B.tech in Information Technology from Vellore Institute of Technology, Vellore. From writing basic code in C++ when I was 13, to now being a web developer has been a great journey.
-                            I am a front end web developer and a designer with a keen interest in startups. I graduated with a degree in business and specialisation in finance. But coming from a different background hasn’t deterred my determination to make it in this industry that I have come to adore. It's like they say, when you find your true calling there’s nothing stopping you. Now, I do understand that I’m a work in progress but I always believe that perseverance and true grit can outweigh anything.
-                            From being a Google Udacity Scholar to an active member in WTM and GDG, this industry has taught me the power of community and how many people it can benefit from a collaborative learning atmosphere.  I am an extremely extroverted, harworking, creative and out of the box thinker, I’m always pushing myself to be better and do better, not just professionally but also as a person. In my free time you can find me illustrating or reading about smart tech or running after my six doggos.
+                            From writing basic code in C++ when I was 13, to now being a web developer has been a great journey. 
+                            I am an Experienced developer with a demonstrated history of working in the computer software industry, 
+                            skilled in Frontend web development , Management, and Media Outreach. 
+                            Strong operations professional with a Bachelor of Technology - BTech focused in Information Technology from Vellore Institute of Technology. 
+                            Intially I was into app dev, but it did not made me happy. 
+                            I learnt HTML for a curriculum course and my interest grew as I started working with javascript. 
+                            Now, I am learning ReactJS and paving my way in frontend web development. 
+                            I will definitely make my way into backend development very soon and grow as a full stack developer.
+                            I am also into competitive programming, and love making my contributions in open-source. It is th best way to collaborate and learn.
+                            Apart from this, I enjoy music and binge watching.
+                        </div>
                     </div>
-                    </div>
-
                 </div>
             </div>
         );

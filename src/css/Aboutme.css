@@ -26,16 +26,14 @@
     padding-left: 5%;
     padding-right: 5%;
     flex: 60%;
-    word-wrap: normal;
-    overflow-wrap: normal;
 }
-.home-text-1{
+/* .home-text-1{
     font-weight: bold;
     font-size: 30px;
     text-align: center;
-}
+} */
 .home-text-2{
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 600;
 }
 #back{
@@ -43,8 +41,17 @@
     width: 40vw;
     border: 2px solid white;
     border-radius: 10px;
+    height: 70vh;
 }
 .home-img{
     flex:40%;
     margin-left: 5%;
+    
+}
+@media only screen and (max-width: 768px)
+{
+    .home-text-2{
+        font-size: 12px;
+        font-weight: 600;
+    }
 }
