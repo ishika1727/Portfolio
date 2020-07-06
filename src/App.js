@@ -1,6 +1,5 @@
 import React from 'react';
 import './css/App.css';
-
 import Intro from './Intro';
 import Nav from './Nav';
 import Aboutme from './Aboutme';
@@ -29,7 +28,7 @@ export class App extends React.Component {
         <div className="line"></div>
         <Experience />
         <Contact />
-      </div>
+      </div >
     );
   }
 }

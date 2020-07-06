@@ -46,6 +46,8 @@
     border: 1px solid white;
     border-radius: 8px;
     margin:1%;
+    height: 28vh;
+    width: 28vw;
 }
 a{
     text-decoration: none;

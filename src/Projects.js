@@ -16,16 +16,16 @@ class Projects extends React.Component {
                     imag="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSs7MhwGZUwyQAqWE1YQQTJw6wXQzP1WTeUfPrJ3bDXKc2EyqAo&usqp=CAU"
                 />
                 <Projectcomponent
-                    name="Nutricate"
-                    code="https://github.com/ishika1727/Nutricate"
-                    desc="Fully functioning web app to help people maintain a healthy life by having a balanced diet."
-                    imag="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSs7MhwGZUwyQAqWE1YQQTJw6wXQzP1WTeUfPrJ3bDXKc2EyqAo&usqp=CAU"
+                    name="Port Scanner"
+                    code="https://github.com/vinitshahdeo/PortScanner"
+                    desc="A basic Port Scanner using Python with an Express Server to test."
+                    imag="https://miro.medium.com/max/1400/1*yBAWM_OlS7NG5cL_DIkiYQ.png"
                 />
                 <Projectcomponent
-                    name="Nutricate"
-                    code="https://github.com/ishika1727/Nutricate"
-                    desc="Fully functioning web app to help people maintain a healthy life by having a balanced diet."
-                    imag="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSs7MhwGZUwyQAqWE1YQQTJw6wXQzP1WTeUfPrJ3bDXKc2EyqAo&usqp=CAU"
+                    name="Stress Fit"
+                    code="https://github.com/ishika1727/Stress-master"
+                    desc="A website to help people overcome stress and detect level of stress in their lives by giving a basic stress test."
+                    imag="https://www.qminder.com/resources/img/blog/stress-management-tips.png"
                 />
 
             </div>

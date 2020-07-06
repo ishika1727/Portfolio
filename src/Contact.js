@@ -2,8 +2,8 @@ import React from 'react';
 import './css/Contact.css';
 import { AiFillGithub } from "react-icons/ai";
 import { AiFillLinkedin} from "react-icons/ai";
-import { AiFillTwitterCircle } from "react-icons/ai";
-import { AiFillInstagram } from "react-icons/ai";
+import { AiFillTwitterSquare } from "react-icons/ai";
+import { AiFillMediumSquare } from "react-icons/ai";
 import { MdEmail } from "react-icons/md";
 
 class Contact extends React.Component {
@@ -44,7 +44,7 @@ class Contact extends React.Component {
                     </div>
                     <div className="icons">
                         <a href="https://twitter.com/ishika1727">
-                            <AiFillTwitterCircle
+                            <AiFillTwitterSquare
                                 size={70}
                                 style={{
                                     marginRight: "30px",
@@ -57,8 +57,8 @@ class Contact extends React.Component {
                         </a>
                     </div>
                     <div className="icons">
-                        <a href="https://instagram.com//ishika.1727">
-                            <AiFillInstagram
+                        <a href="https://medium.com/@ishikadubey2000">
+                            <AiFillMediumSquare
                                 size={70}
                                 style={{
                                     marginRight: "30px",

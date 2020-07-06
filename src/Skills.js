@@ -27,7 +27,7 @@ class Skill extends React.Component {
                         name="Java"
                     />
                     <Skillcomponent
-                        name="React.js"
+                        name="ReactJS"
                     />
                     <Skillcomponent
                         name="PHP"
@@ -41,7 +41,7 @@ class Skill extends React.Component {
                         name="Python"
                     />
                     <Skillcomponent
-                        name="Bootstarp"
+                        name="Bootstrap"
                     />
                     <Skillcomponent
                         name="Oracle"
