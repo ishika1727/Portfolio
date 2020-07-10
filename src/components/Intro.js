@@ -1,6 +1,6 @@
 import React from 'react';
-import './css/Intro.css';
-import my from './assets/my.png';
+import '../css/Intro.css';
+import my from '../assets/my.png';
 class Intro extends React.Component {
     render() {
         return (

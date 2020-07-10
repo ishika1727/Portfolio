@@ -1,5 +1,5 @@
 import React from 'react';
-import './css/Contact.css';
+import '../css/Contact.css';
 import { AiFillGithub } from "react-icons/ai";
 import { AiFillLinkedin} from "react-icons/ai";
 import { AiFillTwitterSquare } from "react-icons/ai";

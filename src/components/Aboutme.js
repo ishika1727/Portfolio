@@ -1,6 +1,6 @@
 import React from 'react';
-import './css/Aboutme.css';
-import backi from './assets/back2.png';
+import '../css/Aboutme.css';
+import backi from '../assets/back2.png';
 
 class Aboutme extends React.Component {
     render() {
