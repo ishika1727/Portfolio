@@ -12,7 +12,7 @@ class Aboutme extends React.Component {
 
                 <div className="home">
                     <div className="home-img">
-                        <img id="home-image" src={backi} alt="background image"></img>
+                        <img id="home-image" src={backi} alt="background"></img>
                     </div>
                     <div className="home-text">
                         From writing basic code in C++ when I was 13, to now being a web developer has been a great journey.
