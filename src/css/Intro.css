@@ -4,6 +4,7 @@
     display: flex;
     background-color: black;
     font-family: 'Lato', sans-serif;
+    margin-top: 9vh;
 }
 .intro-text{
     width: 70vw;
@@ -36,6 +37,7 @@
         flex-direction: column;
         align-items: center;
         height: auto;
+        margin-top: 8vh;
     }
     .intro-text{
         width: 100vw;

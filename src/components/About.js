@@ -1,5 +1,5 @@
 import React from 'react';
-import '../css/Aboutme.css';
+import '../css/About.css';
 import backi from '../assets/back2.png';
 
 class Aboutme extends React.Component {
