@@ -1,11 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
-
-
 .home-main{
-    height: 90vh;
+    height: auto;
     width: 100vw;
     background-color: white;  
-    margin-top: 22%;  
+    margin-bottom: 3%; 
+    font-family: 'Lato', sans-serif; 
 }
 .home{
     display: flex;
@@ -13,45 +11,44 @@
 .home-head{
     color: black;
     font-size: 40px;
-    font-family: 'Montserrat', sans-serif;
     text-align: center;
     margin: 3%;
-    font-weight: bolder;
-
 }
 .home-text{
     color: black;
-    font-family: 'Montserrat', sans-serif;
-    width:50vw;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding:1% 5%;
     flex: 60%;
-}
-/* .home-text-1{
-    font-weight: bold;
-    font-size: 30px;
-    text-align: center;
-} */
-.home-text-2{
+    text-align: justify;
     font-size: 18px;
-    font-weight: 600;
 }
-#back{
-    height: 60vh;
+#home-image{
+    height: 70vh;
     width: 40vw;
     border: 2px solid white;
-    border-radius: 10px;
-    height: 70vh;
+    border-radius: 10px;    
 }
 .home-img{
     flex:40%;
-    margin-left: 5%;
-    
+    margin-left: 5%; 
 }
-@media only screen and (max-width: 768px)
-{
-    .home-text-2{
-        font-size: 12px;
-        font-weight: 600;
+@media only screen and (max-width: 700px){
+    .home-main{
+        margin-top: 2vh;
+    }
+    .home{
+        flex-direction: column;
+    }
+    .home-head{
+        font-size: 28px;
+    }
+    .home-text{
+        font-size: 15px;
+    }
+    #home-image{
+        height: 50vh;
+        width: 90vw;
+    }
+    .home-img{
+        margin-left: 5%;
     }
 }

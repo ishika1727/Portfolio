@@ -38,7 +38,7 @@ class Skill extends React.Component {
                 </div>
                 <div className="skill-box">
                     <Skillcomponent
-                        name="Python"
+                        name="C"
                     />
                     <Skillcomponent
                         name="Bootstrap"
@@ -52,7 +52,7 @@ class Skill extends React.Component {
                 </div>
                 <div className="skill-box">
                     <Skillcomponent
-                        name="C"
+                        name="Python"
                     />
                     <Skillcomponent
                         name="Data Structures"

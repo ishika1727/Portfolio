@@ -13,7 +13,3 @@ body {
   background: transparent;  /* Optional: just make scrollbar invisible */
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}

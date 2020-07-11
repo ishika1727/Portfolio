@@ -1,18 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
-
 .skill-main{
     background-color: black;
     height: auto;
     width: 100vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Lato', sans-serif;
     padding-bottom: 3%;
 }
 .skill-head{
     color: white;
     font-size: 40px;
-    font-family: 'Montserrat', sans-serif;
     text-align: center;
-    font-weight: bolder;
     padding-bottom: 1%;
     padding-top:3%;
 }
@@ -31,4 +27,14 @@
     display: flex;
     padding-left: 5%;
     padding-right: 5%;
+    width: 90vw;
+}
+@media only screen and (max-width: 700px)
+{
+    .skill-head{
+        font-size: 28px;
+    }
+    .skill-component{
+        font-size: 10px;
+    }
 }

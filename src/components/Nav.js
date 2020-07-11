@@ -6,13 +6,12 @@ class Nav extends React.Component {
     render() {
         return (
             <div className="navbar">
-                <button >Home</button>
-                <button>About Me</button>
-                <button>Projects</button>
-                <button>Skills</button>
-                <button>Extras</button>
-                <button>Contact</button>
-
+                <a href="/" className="navlink" >Home</a>
+                <a href="/" className="navlink">About</a>
+                <a href="/" className="navlink">Projects</a>
+                <a href="/" className="navlink">Skills</a>
+                <a href="/" className="navlink">Extras</a>
+                <a href="/" className="navlink">Contact</a>
             </div>
         );
     }

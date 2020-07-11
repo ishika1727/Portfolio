@@ -25,7 +25,6 @@ export class App extends React.Component {
         <hr />
         <Projects />
         <Skills />
-        <div className="line"></div>
         <Experience />
         <Contact />
       </div >

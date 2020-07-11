@@ -1,25 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
-
 .experience-main{
     background-color: white;
     height: auto;
     width: 100vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Lato', sans-serif;
     padding-bottom: 3%;
 }
 .exp-head{
     color: black;
     font-size: 40px;
-    font-family: 'Montserrat', sans-serif;
     text-align: center;
-    font-weight: bolder;
     padding-bottom: 1%;
     padding-top:3%;
 }
 .exp-component{
     color:black;
     background-color: rgb(213, 213, 248); 
-    font-size: 20px;
     border: 1px solid white;
     border-radius: 10px;
     text-align: center;
@@ -30,13 +25,11 @@
     margin: 3%;
 }
 .exp-name{
-    font-size: 20px;
-    font-weight: 600;
+    font-size: 22px;
 }
 .exp-time{
-    margin-top:3%;
-    font-size: 15px;
-    font-weight: 600;
+    margin-top:5%;
+    font-size: 16px;
 }
 .exp-component:hover{
     box-shadow: 7px 7px 12px rgb(100, 100, 100); 
@@ -45,4 +38,15 @@
     display: flex;
   padding-left: 5%;
   padding-right: 5%;;
+}
+@media only screen and (max-width: 700px){
+    .exp-head{
+        font-size: 28px;
+    }
+    .exp-name{
+        font-size: 15px;
+    }
+    .exp-time{
+        font-size: 12px;
+    }
 }

@@ -45,7 +45,7 @@ class Projectcomponent extends React.Component {
                         {this.props.desc}
                     </div>
                     <div className="project-link">
-                        <a href={this.props.code}>Click for Source Code</a>
+                        <a href={this.props.code}  className="pro-link">Click for Source Code</a>
                     </div>
                 </div>
                 <div className="project-img">

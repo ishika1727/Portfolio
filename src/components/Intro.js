@@ -1,6 +1,6 @@
 import React from 'react';
 import '../css/Intro.css';
-import my from '../assets/my.png';
+import me from '../assets/me.png';
 class Intro extends React.Component {
     render() {
         return (
@@ -12,9 +12,9 @@ class Intro extends React.Component {
                 </div>
                 <div className="intro-img">
                     <img
-                        src={my}
+                        src={me}
                         alt="Ishika Dubey"
-                        id="me"
+                        id="intro-image"
                     />
                 </div>
 

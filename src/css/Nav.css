@@ -1,14 +1,22 @@
 .navbar{
     background-color: black;
     color: white;
-    height: 10vh;
-    padding-top: 1%;
-    padding-left: 1%;
+    height: auto;
+    width: auto;
+    padding: 3vh;
+    display: flex;
+    font-family: 'Lato', sans-serif;
 }
-button{
-    margin: 2%;
-    font-size: 20px;
-    background-color: black;
+.navlink{
+    font-size: 22px;
     color: white;
-    border: 1px solid black;
+}
+@media only screen and (max-width: 700px)
+{
+    .navbar{
+        padding: 3vh 0%;
+    }
+    .navlink{
+        font-size: 15px;
+    }
 }

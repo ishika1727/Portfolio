@@ -1,18 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
-
 .contact-main{
     background-color: black;
     height: auto;
     width: 100vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Lato', sans-serif;
     padding-bottom: 3%;
 }
 .contact-head{
     color: white;
     font-size: 40px;
-    font-family: 'Montserrat', sans-serif;
     text-align: center;
-    font-weight: bolder;
     padding-bottom: 3%;
     padding-top:3%;
 }
@@ -20,5 +16,24 @@
     display: flex;
     align-items: center;
     justify-content: center;
+}
+a{
+    margin: 0 20px;
+    text-decoration: none;
+    border: none;
+    color: white;
+    font-size:60px;
+}
+a:hover, :visited{
+    color: white;
+}
+@media only screen and (max-width: 700px){
+    .contact-head{
+        font-size: 28px;
+    }
+    a{
+        font-size: 40px;
+        margin: 0 10px;
+    }
 }
 
