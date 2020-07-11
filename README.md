@@ -2,7 +2,7 @@
 
 
 ### Visit this link:
-[Ishika Dubey's Portfolio](https://ishika1727.github.io/my-portfolio-website/)
+[Ishika Dubey's Portfolio](https://ishika1727.github.io/Portfolio/)
 
 ### About:
 
