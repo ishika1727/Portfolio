@@ -6,7 +6,7 @@
 
 ### About:
 
-This is my portfolio build using React javascript library. It consists of components for projects,skills and exprience.
+This is my portfolio build using React javascript library. It consists of components for projects, skills and experience.
 
 P.S.: It is still under construction and lots of things/features are still to be added.
 
